@@ -40,6 +40,8 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumaramit118589&layout=compact&theme=tokyonight" alt="Top Languages" />
+  ![snake gif](https://github.com/Amitkumaramit118589/Amitkumaramit118589/blob/output/github-contribution-grid-snake.gif)
+
 </p>
 
 
