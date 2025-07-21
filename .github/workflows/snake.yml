@@ -29,3 +29,5 @@ jobs:
           author_email: github-actions@github.com
           message: "Generate Contribution Snake"
           add: "output/*.svg output/*.gif"
+          pull: true
+
