@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <p align="center">
-  🚀 A passionate Software Developer from INDIA  
+  🚀 A passionate Problem Solver from INDIA  
 </p>
 
 <p align="center">
