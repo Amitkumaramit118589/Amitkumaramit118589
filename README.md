@@ -55,7 +55,7 @@
   <a href="mailto:amitkumaramit118589@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://[YourPortfolio]" target="_blank">
+  <a href="https://portfolio-khaki-eight-gogvjhbz57.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white">
   </a>
 </p>
